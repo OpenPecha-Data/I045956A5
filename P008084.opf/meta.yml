@@ -5,11 +5,12 @@ source_metadata:
   title: གཤེད་དམར་ཆོས་སྐོར་
   author: ''
   volumes:
-    57485def8c864875855d82f809138636:
+    b85459a39bc9460497a3bc5b65084182:
       image_group_id: I1CZ1553
-      title: ''
+      title: Volume 1 of gshed dmar chos skor
       volume_number: 1
       total_pages: 338
+      base_file: v001.txt
 ebook_metadata:
   title: གཤེད་དམར་ཆོས་སྐོར་
   author: ''
